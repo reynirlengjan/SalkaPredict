@@ -1,1 +1,1 @@
-This is my attempt to predict match results in the upcoming Euro 2020(2021) tournament 
+This is my attempt to predict match results in the English Premier League and also the Euros and World Cup
